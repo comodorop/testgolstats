@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Pablo Torres",
+    "rol": "Developer"
+  },
+  {
+    "id": 55,
+    "name": "Jaime Orozco",
+    "rol": "CEO"
+  },
+  {
+    "id": 10,
+    "name": "Ivette saucedo",
+    "rol": "CTO"
+  },
+  {
+    "id": 100,
+    "name": "Juan Olvera",
+    "rol": "COO"
+  }
+]
